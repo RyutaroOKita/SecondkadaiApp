@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5D20C4BB259BEC33005F6146 /* SecondkadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecondkadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D20C4BB259BEC33005F6146 /* SecondKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecondKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D20C4BE259BEC33005F6146 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5D20C4C0259BEC33005F6146 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		5D20C4C2259BEC33005F6146 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		5D20C4BC259BEC33005F6146 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5D20C4BB259BEC33005F6146 /* SecondkadaiApp.app */,
+				5D20C4BB259BEC33005F6146 /* SecondKadaiApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5D20C4BA259BEC33005F6146 /* SecondkadaiApp */ = {
+		5D20C4BA259BEC33005F6146 /* SecondKadaiApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5D20C4CF259BEC33005F6146 /* Build configuration list for PBXNativeTarget "SecondkadaiApp" */;
+			buildConfigurationList = 5D20C4CF259BEC33005F6146 /* Build configuration list for PBXNativeTarget "SecondKadaiApp" */;
 			buildPhases = (
 				5D20C4B7259BEC33005F6146 /* Sources */,
 				5D20C4B8259BEC33005F6146 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = SecondkadaiApp;
+			name = SecondKadaiApp;
 			productName = SecondkadaiApp;
-			productReference = 5D20C4BB259BEC33005F6146 /* SecondkadaiApp.app */;
+			productReference = 5D20C4BB259BEC33005F6146 /* SecondKadaiApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5D20C4B6259BEC33005F6146 /* Build configuration list for PBXProject "SecondkadaiApp" */;
+			buildConfigurationList = 5D20C4B6259BEC33005F6146 /* Build configuration list for PBXProject "SecondKadaiApp" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5D20C4BA259BEC33005F6146 /* SecondkadaiApp */,
+				5D20C4BA259BEC33005F6146 /* SecondKadaiApp */,
 			);
 		};
 /* End PBXProject section */
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5D20C4B6259BEC33005F6146 /* Build configuration list for PBXProject "SecondkadaiApp" */ = {
+		5D20C4B6259BEC33005F6146 /* Build configuration list for PBXProject "SecondKadaiApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5D20C4CD259BEC33005F6146 /* Debug */,
@@ -332,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5D20C4CF259BEC33005F6146 /* Build configuration list for PBXNativeTarget "SecondkadaiApp" */ = {
+		5D20C4CF259BEC33005F6146 /* Build configuration list for PBXNativeTarget "SecondKadaiApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5D20C4D0259BEC33005F6146 /* Debug */,
